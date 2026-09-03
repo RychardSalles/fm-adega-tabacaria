@@ -1,6 +1,6 @@
-// Catálogo padrão — usado como reserva se o Firebase não estiver configurado
-// e como semente inicial do Firestore na primeira vez que o painel abre.
-// A partir daí, tudo é lido/salvo no Firestore e editado pelo admin.html.
+// Catálogo padrão — usado como reserva se o Supabase não estiver configurado
+// e como semente inicial da tabela na primeira vez que o painel abre.
+// A partir daí, tudo é lido/salvo no Supabase e editado pelo admin.html.
 const FALLBACK_PRODUCTS = [
   {
     id: "p1",
