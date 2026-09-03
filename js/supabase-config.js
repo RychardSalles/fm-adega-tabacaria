@@ -9,6 +9,6 @@
 // Veja o passo a passo completo em CONFIGURAR-SUPABASE.md
 
 const SUPABASE_CONFIG = {
-  url: "COLE_AQUI",
-  anonKey: "COLE_AQUI",
+  url: "https://sexmvtpcxlmcejcetdas.supabase.co",
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNleG12dHBjeGxtY2VqY2V0ZGFzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg0NTU4NjAsImV4cCI6MjEwNDAzMTg2MH0.l9SfFjJ7VERVd9Jap8AsFKpBfFRdHe3HRczFefjB9Qo",
 };
